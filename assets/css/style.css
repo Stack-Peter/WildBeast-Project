@@ -334,3 +334,10 @@ p {
     text-align: center;
     padding: 30px;
 }
+.footer p a {
+    color: white;
+}
+
+.footer a:hover {
+    color: rgb(59, 59, 59);
+}
